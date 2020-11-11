@@ -1,0 +1,2 @@
+# Acute-Lymphoblastic-and-Acute-Myeloid-Leukemia-Classifier
+The purpose of this project was to train a model to classify samples of Acute Lymphoblastic and Acute Myeloid Leukemia, using the microarray gene expression data from the Golub et al (1999) study. This repo contains the Jupyter notebook of the project, the train and test sets, as well as an extra R file used for finding the top 10 differentially expressed genes, which were used in feature selection.
