@@ -3,10 +3,10 @@ The purpose of this project was to train a model to classify samples of Acute Ly
 
 File Description:
 
-ALL_AML_Classification.ipynb - project notebook
-AML_ALL_DE.R - R file used for finding differentially expressed genes in the train set
-aml_all_numerical_features.csv - gene expression data of both train and test set (only train set DE data should be used for finding DE genes!), this is to be used for the R file above.
-actual.csv - labels of all samples
-data_set_ALL_AML_independent.csv - test set
-data_set_ALL_AML_train.csv - train set
+ALL_AML_Classification.ipynb - project notebook\
+AML_ALL_DE.R - R file used for finding differentially expressed genes in the train set\
+aml_all_numerical_features.csv - gene expression data of both train and test set (only train set DE data should be used for finding DE genes!), this is to be used for the R file above.\\
+actual.csv - labels of all samples\
+data_set_ALL_AML_independent.csv - test set\
+data_set_ALL_AML_train.csv - train set\
 
